@@ -3,7 +3,7 @@ exec(
   `
   cd public &&
   git init &&
-  git remote add origin https://github.com/username/smartsense-link.git &&
+  git remote add origin https://github.com/slametsampon/SmartSenseLink.git &&
   git add . &&
   git commit -m "Deploy to GitHub Pages" &&
   git push -f origin main:gh-pages
