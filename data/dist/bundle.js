@@ -14,7 +14,7 @@
         <p class="text-center text-gray-600">
           SmartSenseLink is an IoT platform designed for smart applications.
         </p>
-        <p>Testing 2nd</p>
+        <p>Testing 3rd</p>
       </main>
     `}};customElements.define("about-content",Q);var X=class extends d{render(){return A`
       <app-header></app-header>
