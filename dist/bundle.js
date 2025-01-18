@@ -569,6 +569,7 @@
         <p class="text-center text-gray-600">
           SmartSenseLink is an IoT platform designed for smart applications.
         </p>
+        <p>Testing</p>
       </main>
     `;
     }
